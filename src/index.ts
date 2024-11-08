@@ -1105,6 +1105,7 @@ export * as Bloom from './Bloom.js'
  */
 export * as Bls from './Bls.js'
 
+export * as BN254 from './BN254.js'
 /**
  * Utility functions for working with BLS12-381 points.
  *
@@ -1150,6 +1151,7 @@ export * as Bls from './Bls.js'
  */
 export * as BlsPoint from './BlsPoint.js'
 
+export * as BN254Point from './BN254Point.js'
 /**
  * A set of Ethereum-related utility functions for working with [`Uint8Array`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array) instances.
  *
